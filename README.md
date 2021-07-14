@@ -5,3 +5,5 @@ POC to study hibernate mapping
 * Java 11
 * Spring
 * Maven
+
+* https://www.baeldung.com/spring-boot-h2-database
